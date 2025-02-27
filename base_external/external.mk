@@ -4,12 +4,11 @@
 
 AESD_ASSIGNMENTS_VERSION = master
 
-# Use the local repository via file:// URL.
-# (Ensure that /home/ahmed/Assignment-2/finder-app is a valid Git repository)
+# Use a file:// URL pointing to your local Assignment 3 repository
 AESD_ASSIGNMENTS_SITE = file:///home/ahmed/Assignment-2/finder-app
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
-# Buildroot will clone this external package into $(BUILD_DIR)/aesd_assignments
+# Buildroot will clone this repository into $(BUILD_DIR)/aesd_assignments
 AESD_ASSIGNMENTS_DIR = $(BUILD_DIR)/aesd_assignments
 
 AESD_ASSIGNMENTS_LICENSE = GPL-2.0
