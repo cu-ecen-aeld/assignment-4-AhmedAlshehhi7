@@ -4,9 +4,9 @@
 
 AESD_ASSIGNMENTS_VERSION = master
 
-# Use a file:// URL pointing to your local Assignment 3 repository.
-# If you eventually need to use SSH, replace with an SSH URL.
-AESD_ASSIGNMENTS_SITE = file:///home/ahmed/Assignment-2/finder-app
+# Use the SSH URL for your Assignment 3 repository.
+# (For final submission, use an SSH URL; for example:)
+AESD_ASSIGNMENTS_SITE = ssh://git@github.com/<your_username>/assignment-3-and-later.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
 # Buildroot will clone this repository into $(BUILD_DIR)/aesd_assignments

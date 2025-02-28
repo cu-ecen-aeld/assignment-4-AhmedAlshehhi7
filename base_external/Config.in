@@ -2,6 +2,6 @@ config BR2_PACKAGE_AESD_ASSIGNMENTS
     bool "aesd_assignments"
     help
       Build and install the AESD_assignments package.
-      This package pulls the finder application (tester.sh, writer, finder.sh,
-      and the conf directory) from your Assignment 3 repository using SSH.
+      This package pulls the finder application (tester script, writer, finder.sh,
+      and the conf directory) from your Assignment 3 repository using SSH.
 

@@ -2,8 +2,8 @@ external: project_base
 name: aesd_assignments
 description: >
   AESD_assignments package that builds the finder application.
-  This package pulls the finder application (tester.sh, writer, finder.sh, and the conf directory)
-  from your Assignment 3 repository using a file URL.
+  This package pulls the finder application (tester script, writer, finder.sh, and the conf directory)
+  from your Assignment 3 repository using SSH.
 license: GPL-2.0
 dependencies: ""
 
