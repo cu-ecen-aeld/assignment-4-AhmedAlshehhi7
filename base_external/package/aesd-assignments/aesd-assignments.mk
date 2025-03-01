@@ -5,7 +5,7 @@
 ##############################################################
 
 # Reference your assignment 3 repository here.
-AESD_ASSIGNMENTS_VERSION = '7e0a42f1599780a7be0000058b4e7befc37c97d5'
+AESD_ASSIGNMENTS_VERSION = '0691d29bdeeb1b749bf1da0fca42b188391abd80'
 # Use the SSH URL (not HTTPS) to allow the automated build/test system to work with SSH keys.
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-AhmedAlshehhi7.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
