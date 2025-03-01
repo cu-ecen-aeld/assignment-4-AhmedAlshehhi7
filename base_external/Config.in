@@ -1,4 +1,1 @@
-config BR2_PACKAGE_AESD_ASSIGNMENTS
-    bool "aesd-assignments"
-    help
-      This package builds the AESD assignments application from your assignments-3-and-later repository.
+source "$BR2_EXTERNAL_project_base_PATH/package/aesd-assignments/Config.in"
